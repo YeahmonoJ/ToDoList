@@ -1,9 +1,9 @@
 A simple To-Do List application written in Python
 
 ## Current Features
--Add tasks to the To-Do List.
--Remove tasks from the To-Do List.
--View the To-Do List.
+- Add tasks to the To-Do List.
+- Remove tasks from the To-Do List.
+- View the To-Do List.
 
 ## How to use
 
