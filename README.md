@@ -22,6 +22,6 @@ A simple To-Do List application written in Python
 - Print task from a list
 
 ## Requirements 
-Python 3.11 or newer 
+- Python 3.11 or newer 
 
 # Author Jimmy or @YeahmonoJ
