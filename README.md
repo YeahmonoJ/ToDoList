@@ -17,9 +17,9 @@ A simple To-Do List application written in Python
   ToDoListMain.py
 
 ## Functionality 
-Adds task to a List
-Remove task from a list
-Print task from a list
+- Adds task to a List
+- Remove task from a list
+- Print task from a list
 
 ## Requirements 
 Python 3.11 or newer 
